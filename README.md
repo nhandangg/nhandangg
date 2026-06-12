@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Nhan Dang
+🎓 I'm currently studying TESOL and Entrepreneurship at BYU–Hawaii. 
+
+🔭 I'm building an EdTech application focused on grammar learning for adult ESL learners in English for Specific Purposes (ESP)
+
+🤍 I'm passionate about combining language education, technology, and entrepreneurship to create engaging and effective learning experiences.
+
+🫱🏼‍🫲🏽 I'm interested in collaborating with educators, developers, designers, and entrepreneurs who are working on EdTech tools, language-learning applications, and English learning platforms.
 <!--
 **nhandangg/nhandangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
